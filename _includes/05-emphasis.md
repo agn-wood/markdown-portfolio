@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Weather
+- **Sunny day**
+- _ideal temperature about 25 C degrees_
+   - a bit of clouds
